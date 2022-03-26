@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Quasar_Shopitem_Adder
+namespace Quasar_Shoptable_Itemcreator
 {
     public partial class Form1 : Form
     {
@@ -19,7 +19,7 @@ namespace Quasar_Shopitem_Adder
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBox1.Checked == true)
-            { 
+            {
                 checkBox2.Checked = false;
             }
             else
@@ -28,7 +28,7 @@ namespace Quasar_Shopitem_Adder
             }
 
 
-                
+
         }
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {

@@ -1,0 +1,15 @@
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\bin\Debug\Quasar-Shoptable-Itemcreator.exe.config
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\bin\Debug\Quasar-Shoptable-Itemcreator.exe.manifest
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\bin\Debug\Quasar-Shoptable-Itemcreator.application
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\bin\Debug\Quasar-Shoptable-Itemcreator.exe
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\bin\Debug\Quasar-Shoptable-Itemcreator.pdb
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.csproj.AssemblyReference.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar_Shoptable_Itemcreator.Form1.resources
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar_Shoptable_Itemcreator.Properties.Resources.resources
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.csproj.GenerateResource.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.csproj.CoreCompileInputs.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.exe.manifest
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.application
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.exe
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\Quasar-Shoptable-Itemcreator\Quasar-Shoptable-Itemcreator\obj\Debug\Quasar-Shoptable-Itemcreator.pdb

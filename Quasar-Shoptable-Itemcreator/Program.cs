@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Quasar_Shopitem_Adder
+namespace Quasar_Shoptable_Itemcreator
 {
     internal static class Program
     {

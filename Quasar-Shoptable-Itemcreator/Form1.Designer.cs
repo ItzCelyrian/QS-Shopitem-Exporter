@@ -1,4 +1,4 @@
-﻿namespace Quasar_Shopitem_Adder
+﻿namespace Quasar_Shoptable_Itemcreator
 {
     partial class Form1
     {
