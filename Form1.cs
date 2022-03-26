@@ -53,11 +53,11 @@ namespace Quasar_Shopitem_Adder
             var slot = Convert.ToInt32(textBox6.Text);
 
             if (checkBox1.Checked == true)
-                type = "\'weapon\'";
+                type = "weapon";
             else if (checkBox2.Checked == true)
-                type = "\'item\'";
+                type = "item";
             else
-                type = "\'none\'";
+                type = "none";
 
 
             richTextBox1.Multiline = true;
